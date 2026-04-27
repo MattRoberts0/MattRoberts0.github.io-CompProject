@@ -24,10 +24,14 @@ and pace.
 
 ## Conclusion
 
-The bar chart shows that the vast majority of students rated pre-lecture 
-videos highly, with rating 7 being the most common response by far. This 
-strongly supports adding pre-lecture videos to the course.
+Conclusion: The bar chart shows that the majority of students rated pre-lecture 
+videos highly, with rating 7 being the most common response. This 
+suggest students want pre-lecture videos added to the course.
 
 However, the scatterplots show no clear relationship between difficulty 
 or pace and interest in pre-lecture videos, suggesting that all students 
 want them, not just struggling ones.
+
+Potential costs: Creating prelecture videos takes significant instructor time and effort. Students may come to rely on them and skip lecture. Videos may become outdated as course content changes each semester.
+
+Future work: It would be interesting to see if students who actually watch pre-lecture videos perform better on quizzes, which would give stronger evidence for their value.
