@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "COMP110 Data Analysis: Pre-Lecture Videos"
 ---
 
@@ -14,13 +14,13 @@ and pace.
 ## Visualizations
 
 ### Distribution of Pre-Lecture Video Ratings
-![Bar Chart](../static/bar_chart.png)
+![Bar Chart](../static/output.png)
 
 ### Difficulty vs Pre-Lecture Video Interest
-![Scatter 1](../static/scatter1.png)
+![Scatter 1](../static/outputplot.png)
 
 ### Pace vs Pre-Lecture Video Interest
-![Scatter 2](../static/scatter2.png)
+![Scatter 2](../static/outputplot2.png)
 
 ## Conclusion
 
